@@ -1,5 +1,5 @@
 # RAzureVM
-Simple functions leveraging Azure VM API that handle tokens to help users manage their VMs lifecycle (list, start, stop, deprovision, etc.)
+Simple functions leveraging Microsoft Azure API that handle tokens to help users manage their VMs lifecycle (list, start, stop, deprovision, etc.)
 
 Author@R: Tristan Ganry 
 
