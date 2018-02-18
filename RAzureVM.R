@@ -3,7 +3,7 @@
 # Description: Helps users to manage Azure VMs from within a R Session.
 # Version: 0.1.1
 # Date: 2017-11-29
-# Author@R: Tristan G
+# Author@R: Tristan G 
 
 if(!require("httr")) install.packages("httr")
 if(!require("jsonlite")) install.packages("jsonlite")
